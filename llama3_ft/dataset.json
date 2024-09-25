@@ -1,0 +1,4 @@
+[
+    {"instruction": "Translate English to French: 'Hello, how are you?'", "response": "Bonjour, comment ça va?"},
+    {"instruction": "Summarize the following text: 'Artificial intelligence...'", "response": "AI is a field..."}
+]
